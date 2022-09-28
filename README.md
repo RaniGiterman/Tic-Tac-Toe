@@ -1,4 +1,4 @@
-# Algorithm
+# My depth=1 search algorithm
 
 *The following takes place after the user played their move.*
 
